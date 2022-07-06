@@ -22,7 +22,7 @@ var app = new Vue({
                 name: 'Will'
             },
             {
-                photo: 'Matt.png',
+                photo: 'matt.png',
                 alt: 'matt-photo',
                 name: 'Matt'
             },
